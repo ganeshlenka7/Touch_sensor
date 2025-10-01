@@ -1,4 +1,4 @@
-int touchPin = 2;     // Touch sensor OUT pin
+int touchPin = 3;     // Touch sensor OUT pin
 int ledPin = 13;      // Onboard LED
 int ledState = LOW;   // Track LED state
 int lastTouch = HIGH; // Track last touch (TTP223 gives LOW when touched in "active-low" mode)
