@@ -14,8 +14,8 @@ When the sensor is touched, the LED state changes, and the status is shown in th
 ---
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](image.png)  
-*(Replace `image.png` with the actual circuit diagram in your repo)*  
+![Circuit Diagram](TTP223_sensor.jpg)  
+
 
 ---
 
@@ -31,8 +31,4 @@ Check out the working demo on my **YouTube channel**:
 3. Open the **Serial Monitor** at 9600 baud.  
 4. Touch the sensor to toggle the LED ON/OFF.  
 
----
-
-## 📷 Project Preview
-![Project Image](image.png)  
 
