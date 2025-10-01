@@ -8,7 +8,7 @@ When the sensor is touched, the LED state changes, and the status is shown in th
 ## 🔧 Components Required
 - Arduino Uno (or compatible board)  
 - Touch Sensor Module (TTP223 or similar)  
-- LED + Resistor (220Ω)  
+- LED 
 - Breadboard & Jumper Wires  
 
 ---
